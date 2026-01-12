@@ -27,3 +27,14 @@ The following labs were completed while working on the course.
 		- Ornstein-Uhlenbeck processes
 		- Overdamped Langevin dynamics
 	- Score function $\nabla\log p_t(x)$
+- [**Flow and Score Matching**](labs/flow_score_matching.ipynb): Tutorials on flow matching and score matching in PyTorch. Topics include:
+	- Conditional / marginal
+		- Probability paths
+		- Vector fields
+		- Score functions
+	- Gaussian conditional probability paths
+		- Noise schedulers $\alpha_t$, $\beta_t$
+		- Conditional flow / score matching
+		- Score / vector field conversion
+	- Linear conditional probability paths
+	- Multilayer perceptrons (for toy data)
